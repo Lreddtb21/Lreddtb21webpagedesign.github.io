@@ -1,2 +1,2 @@
-# Lreddtb21webpagedesign.github.io
+# Lreddtb21github.io
 My website for practicing Web Design 
